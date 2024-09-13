@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: José do Bomfim Truta Neto
+* Email (@ccc): jose.bomfim.truta.neto@ccc.ufcg.edu.br
+* Matrícula: 123110810
 
 # Roteiro: Fila de Prioridade
 
